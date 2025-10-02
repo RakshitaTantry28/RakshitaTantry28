@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ---
 
-🚀 I'm a full-stack software developer with a love for backend systems, scalable architectures, and intuitive user interfaces. I've worked across cloud-native services, microservices, CI/CD pipelines, and data workflows at organizations like Amazon and Goldman Sachs.
+I'm a full-stack software developer with a love for backend systems, scalable architectures, and intuitive user interfaces. I've worked across cloud-native services, microservices, CI/CD pipelines, and data workflows at organizations like Amazon and Goldman Sachs.
 
-🧠 I enjoy debugging hard problems, automating deployments, and building tools that make other people’s lives easier.
+I enjoy debugging hard problems, automating deployments, and building tools that make other people’s lives easier.
 
 ---
 
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
